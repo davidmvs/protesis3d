@@ -10996,7 +10996,11 @@ header.mastheadv2 {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
+<<<<<<< HEAD
   color: #ffffff;
+=======
+  color: #fff;
+>>>>>>> 2f98894288e770d27b8fd75875dcc507906a2884
   background-image: url("../assets/img/header-bgv2.JPG");
   background-repeat: no-repeat;
   background-attachment: scroll;
