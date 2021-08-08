@@ -17,18 +17,18 @@
   --bs-pink: #d63384;
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
-  --bs-yellow: #ffc800;
+  --bs-yellow: #9b9b9b;
   --bs-green: #198754;
   --bs-teal: #20c997;
   --bs-cyan: #0dcaf0;
   --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
-  --bs-primary: #ffc800;
+  --bs-primary: #9b9b9b;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
-  --bs-warning: #ffc800;
+  --bs-warning: #9b9b9b;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
@@ -10996,12 +10996,7 @@ header.mastheadv2 {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-<<<<<<< HEAD
-  color: #ffffff;
-=======
-  color: #fff;
->>>>>>> 2f98894288e770d27b8fd75875dcc507906a2884
-  background-image: url("../assets/img/header-bgv2.JPG");
+  background-image: url("../assets/img/headerv2.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
